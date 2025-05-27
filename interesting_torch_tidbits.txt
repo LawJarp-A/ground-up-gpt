@@ -1,0 +1,1 @@
+Dot product in torch expands dimensions automatically
